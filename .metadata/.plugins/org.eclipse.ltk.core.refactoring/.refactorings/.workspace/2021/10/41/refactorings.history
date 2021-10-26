@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;AbstrcationExample&apos; to &apos;AbstractClassExample&apos;" description="Rename resource &apos;AbstrcationExample&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/AbstrcationExample" name="AbstractClassExample" stamp="1633512765462" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;PolyMorphismExample&apos; to &apos;MethodOverloadingExample&apos;" description="Rename resource &apos;PolyMorphismExample&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/PolyMorphismExample" name="MethodOverloadingExample" stamp="1633595756251" updateReferences="true"/>
+</session>

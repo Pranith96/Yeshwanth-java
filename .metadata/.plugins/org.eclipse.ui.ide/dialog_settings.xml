@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="NewWizardAction">
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.jdt.ui.wizards.JavaProjectWizard"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+		</list>
+	</section>
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\Users\ramannpr\Algarithms\practice\SynchronizationClassLevelObjectLevel"/>
+			<item value="C:\Users\ramannpr\Algarithms\Algarithms_2\FileInputProgram"/>
+			<item value="C:\Users\ramannpr\Algarithms\Algarithms_2\FileReaderWriterExample"/>
+			<item value="C:\Users\ramannpr\Algarithms\Algarithms_2\FilesExample"/>
+			<item value="C:\Users\ramannpr\Algarithms\Algarithms\Thread concepts\Multithreading Examples\MultitaskingThread"/>
+			<item value="C:\Users\ramannpr\Algarithms\Algarithms\Thread concepts\ThreadOddEven"/>
+			<item value="C:\Users\ramannpr\Algarithms\Algarithms\Thread concepts\SynchronizedBlockThread"/>
+			<item value="C:\Users\ramannpr\Algarithms\Algarithms\Thread concepts\SynchronisationThread"/>
+			<item value="C:\Users\ramannpr\Algarithms\Algarithms\Thread concepts\MultiThreadingMultitaskDemo"/>
+			<item value="C:\Users\ramannpr\Algarithms\Algarithms\Thread concepts\MultiThreadingJoinDemo"/>
+			<item value="C:\Users\ramannpr\Algarithms\Algarithms\Thread concepts\MultiThreading3"/>
+			<item value="C:\Users\ramannpr\Algarithms\Algarithms\Thread concepts\MultiThreading2"/>
+			<item value="C:\Users\ramannpr\Algarithms\Algarithms\Thread concepts\MultiThreading1"/>
+			<item value="C:\Users\ramannpr\Thread concepts\MultiThreading1"/>
+			<item value="C:\Users\ramannpr\Thread concepts"/>
+			<item value="C:\Users\ramannpr\Thread concepts\MultitaskingThread"/>
+		</list>
+	</section>
+	<section name="ResourceNavigator">
+		<item key="ResourceViewer.STORE_SORT_TYPE" value="1"/>
+		<item key="ResourceWorkingSetFilter.STORE_WORKING_SET" value="Aggregate for window 1632988907988"/>
+	</section>
+</section>

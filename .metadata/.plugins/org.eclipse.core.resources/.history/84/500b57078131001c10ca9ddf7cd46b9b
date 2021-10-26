@@ -1,0 +1,13 @@
+package com.demo.hello;
+
+public class Hello {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	private void hi() {
+		System.out.println("HII!!");
+	}
+}

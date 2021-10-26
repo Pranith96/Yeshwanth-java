@@ -1,0 +1,11 @@
+
+public class StringExamples {
+
+	public static void main(String[] args) {
+
+		String s = "Hi";
+		String s1 = s.concat("Hello");
+		System.out.println(s1);
+	}
+
+}
